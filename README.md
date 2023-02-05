@@ -23,9 +23,9 @@
 ### 4. Start Hardhat node
 `$ npx hardhat node`
 
-### 5. Run deployment script
+### 5. Run deployment script to deploy the contract on goerli testnet
 In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
+`$ npx hardhat run scripts/deploy.js --network goerli`
 
 ### 7. Start frontend
 `$ npm run start`
