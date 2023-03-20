@@ -101,8 +101,7 @@ header {
   background-image: url("./assets/houses.png");
   background-position: center;
   background-size: cover;
-  min-height: 40vh;
-
+  min-height: 60vh;
   position: relative;
 }
 
